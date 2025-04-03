@@ -11,9 +11,9 @@ export default function Contact() {
                         <h6 className="text-primary text-uppercase" >Contact</h6>
                         <h1>Contact For Any Query</h1>
                     </div>
-                    <div className="row justify-content-center">
-                        <div className="col-lg-8">
-                            <div className="contact-form bg-white" >
+                    <div className="row justify-content-center ">
+                        <div className="col-lg-8 bg-white p-5 ">
+                            <div className="contact-form " >
                                 <div id="success"></div>
                                 <form name="sentMessage" id="contactForm" novalidate="novalidate">
                                     <div className="form-row">
