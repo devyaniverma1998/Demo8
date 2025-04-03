@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../styles/style.css'
 export default function Faqs() {
     return (
         <div className="container my-5 bg-light p-4">

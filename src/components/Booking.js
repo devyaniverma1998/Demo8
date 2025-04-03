@@ -1,7 +1,5 @@
 import '../styles/style.css'
 
-
-
 export default function Booking() {
     return (
         <>
